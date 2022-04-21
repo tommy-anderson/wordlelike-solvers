@@ -1,3 +1,4 @@
 {
-  "includeShadowDom": true
+  "includeShadowDom": true,
+  "chromeWebSecurity": false
 }
